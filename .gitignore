@@ -1,0 +1,21 @@
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+gen/
+bin/
+*.apk
+out/
+
+# Local configuration file (sdk path, etc)
+local.properties
+ant.properties
+project.properties
+build.xml
+
+# Intellij IDEA project file
+.idea/
+*.iml
